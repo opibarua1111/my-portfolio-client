@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Jewellery Website",
+    "short_description": "Jewellery or jewelry consists of decorative items worn for personal adornment, such as brooches, rings, necklaces, earrings, pendants, bracelets, and cufflinks. Jewellery may be attached to the body or the clothes.",
+    "main_img": "https://i.ibb.co/dfgm5wx/jewellery.png",
+    "img1": "https://i.ibb.co/F7zxh13/jewellery2.png",
+    "img2": "https://i.ibb.co/0jV9Kpp/jewellery3.png",
+    "img3": "https://i.ibb.co/PMgFkqt/jewellery4.png",
+    "img4": "",
+    "des1": "You must log in to the site to book an offer and want to contact.",
+    "des2": "Login user sees Dashboard, gives a review, checks his/her orders, and Delete.",
+    "des3": "Admin can make admin, add an offer, manage-all-offers, all-booked-offers, can make admin,update the status and see total admins and users.",
+    "des4": "",
+    "des5": ""
+  },
+  {
+    "title": "Tourism Website",
+    "short_description": "Tourism is also a MERN stack project. This Project was built with React.js, Node.js, MongoDB, Express.js, Firebase, React Bootstrap. User can choose there offer for travel in many interesting tourist place. User can book there offer and also update there status, such as pending or approved.",
+    "main_img": "https://i.ibb.co/FmhJXZt/Tourism.png",
+    "img1": "https://i.ibb.co/ZdQQKqY/tourism2.png",
+    "img2": "https://i.ibb.co/XCRnRs4/tourism3.png",
+    "img3": "https://i.ibb.co/JQjBF4n/tourism4.png",
+    "img4": "",
+    "des1": "Login user to the site to book an offer.",
+    "des2": "You can see Your booked offers and want to delete.",
+    "des3": "Admin can manage all offers, and can manage all booked offers, update the status of the booked offer between PENDING and APPROVED which will be displayed to the user.",
+    "des4": "",
+    "des5": ""
+  },
+  {
+    "title": "Doctors Hospital Website",
+    "short_description": "Doctors Hospital is my awesome project. This project build with React.js, React Bootstrap, Firebase Authentication. A well environmental hospital is important for us. Doctor's Hospital one them. Patients will feel comfort with staying this hospital. We always try to best for patients.",
+    "main_img": "https://i.ibb.co/MZ5Dxs0/Doctors-Portal.png",
+    "img1": "https://i.ibb.co/JzMFCZ2/doctorimg2.png",
+    "img2": "https://i.ibb.co/pdWFbsX/doctorimg3.png",
+    "img3": "",
+    "img4": "",
+    "des1": "Users can appointment specific dates. Users must log in to the site to pay money.",
+    "des2": "Login user see Dashboard and pay his/her appointment.",
+    "des3": "Admin can add Doctor, Make admin.",
+    "des4": "",
+    "des5": ""
+  }
+]

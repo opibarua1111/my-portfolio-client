@@ -1,0 +1,13 @@
+.banner {
+  background-image: url(../../../images/My-banner.jpg);
+  background-size: cover;
+  background-position: right;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 400px;
+}
+@media (max-width: 576px) {
+  .banner {
+    height: 150px !important;
+  }
+}
