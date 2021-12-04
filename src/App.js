@@ -5,6 +5,7 @@ import {
 } from "react-router-dom";
 import './App.css';
 import AboutMe from "./pages/AboutMe/AboutMe";
+import Blog from "./pages/Blog/Blog";
 import Contact from "./pages/Contact/Contact";
 import Home from "./pages/Home/Home/Home";
 import ProjectDetails from "./pages/ProjectDetails/ProjectDetails";
@@ -25,6 +26,9 @@ function App() {
           </Route>
           <Route path="/Aboutme">
             <AboutMe></AboutMe>
+          </Route>
+          <Route path="/blog">
+            <Blog></Blog>
           </Route>
           <Route path="/contact">
             <Contact></Contact>

@@ -23,6 +23,9 @@ const Header = () => {
                             <Link to="/AboutMe" className="text-decoration-none text-dark mt-2 me-4">
                                 About me
                             </Link>
+                            <Link to="/blog" className="text-decoration-none text-dark mt-2 me-4">
+                                Blog
+                            </Link>
                             <Nav.Link className="text-dark me-4" href="https://drive.google.com/file/d/1lO1xnOwVIhq7aImX5prfDLLZr5kT3rxE/view?usp=sharing" target="_blank" rel="noreferrer noopener resume">Download Resume</Nav.Link>
                             <Link to="/contact" className="text-decoration-none text-dark mt-2">
                                 Contact me
