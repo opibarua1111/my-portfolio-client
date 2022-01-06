@@ -4,7 +4,6 @@ import Project from '../Project/Project';
 
 const Projects = () => {
     const { projects } = useProjects();
-    console.log(projects);
     return (
         <div className="mb-5">
             <h2 className="text-4xl font-semibold mt-3">Our Services</h2>
