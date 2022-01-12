@@ -5,7 +5,7 @@ const Footer = () => {
     const twitter = <i class="fab fa-twitter"></i>
     const google = <i class="fab fa-google"></i>
     return (
-        <div className="bg-red-300">
+        <div className="bg-black">
             <div className="w-full grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 lg:gap-5 container">
                 <div >
 
@@ -16,7 +16,7 @@ const Footer = () => {
                     <h5 className="extrabold text-gray-800 mt-5 text-4xl mb-2">SUBSCRIBE</h5>
                     <input type="text" className="w-60 rounded-lg h-10 round-lg mb-2" />
                     <br />
-                    <button className="bg-red-500 hover:bg-red-600 text-white px-8 py-2 duration-300 hover:scale-110 focus:outline-none poppins rounded-full mt-0 transform transition mb-2">Subscribe</button>
+                    <button className="bg-gray-500 hover:bg-gray-600 text-white px-8 py-2 duration-300 hover:scale-110 focus:outline-none poppins rounded-full mt-0 transform transition mb-2">Subscribe</button>
                 </div>
                 <div className="">
                     <div className="flex pb-2 justify-center">

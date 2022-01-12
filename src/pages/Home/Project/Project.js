@@ -6,8 +6,8 @@ const Project = ({ project }) => {
     return (
         <div className="relative bg-white border border-gray-100 transition transform duration-700 rounded-lg">
             <img className=" mx-auto transform transition duration-300 hover:scale-105" src={main_img} alt="" />
-            <div className="flex flex-col items-center my-3 space-y-2">
-                <h1 className="text-gray-900 poppins text-lg font-medium">{title}</h1>
+            <div className="flex flex-col transition transform duration-700 items-center py-3 space-y-2 hover:bg-yellow-100">
+                <h1 className="text-gray-900 text-xl poppins text-lg font-medium">{title}</h1>
                 <p className="text-gray-500 poppins text-sm text-center">{short_description}</p>
 
                 <div className="live_link  pt-4">
