@@ -16,9 +16,9 @@ const Contact = () => {
     }
     return (
         <div>
-            <h1 className="mt-5 mb-5">Get In Touch</h1>
+            <h1 className="mt-5 mb-5 text-3xl text-gray-200">Get In Touch</h1>
 
-            <Form onSubmit={handleSubmit} className="w-50 mx-auto">
+            <Form onSubmit={handleSubmit} className="w-50 mx-auto py-6">
                 <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
                     <Form.Control type="text" name="name" placeholder="Your Name" />
                 </Form.Group>

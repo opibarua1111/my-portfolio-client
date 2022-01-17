@@ -3,7 +3,7 @@ import React from 'react';
 const OverView = () => {
     return (
         <div className="container pb-6">
-            <h1 className="text-4xl mb-5">Overview</h1>
+            <h1 className="text-4xl mb-5 text-gray-300">Overview</h1>
             <div className="grid lg:grid-cols-3 grid-cols-1 gap-4">
                 <div className="bg-purple-200 p-7 rounded-lg">
                     <i className="fab fa-codepen text-indigo-500 text-7xl"></i>

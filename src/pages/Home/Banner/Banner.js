@@ -39,7 +39,7 @@ const Banner = () => {
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>
-            <img className='absolute bottom-32 right-36 z-10 lg:right-4' src="https://i.ibb.co/tbR5cjd/my-photo.png" alt="" />
+            <img className='absolute top-40 md:top-32 right-4 z-10 md:right-36' src="https://i.ibb.co/tbR5cjd/my-photo.png" alt="" />
         </>
     );
 };
